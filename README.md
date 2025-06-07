@@ -18,7 +18,7 @@ From ground-up projects to self-driven explorations, I believe every step in thi
 
 I've built a fully interactive chess game you can play right in your browser!
 
-<a href="https://daru-okta-buana.github.io/interactive-chess/">
+<a href="https://daruoktab.github.io/interactive-chess/">
   <img src="https://github.com/daru-okta-buana/daru-okta-buana/blob/output/chess.svg" alt="My GitHub Chess">
 </a>
 
