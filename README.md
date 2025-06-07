@@ -9,20 +9,51 @@
 
 From ground-up projects to self-driven explorations, I believe every step in this journey is an opportunity to learn something new. With a passion for LLMs, RAG systems, agentic frameworks, and chess, I'm committed to turning curiosity into impact through cutting-edge AI research and strategic thinking.
 
+## 🚀 Featured Projects
+
+### 🎮 Interactive Chess Game
+A fully functional chess game built with modern web technologies, featuring drag-and-drop gameplay and real-time validation.
+- **Tech Stack:** React, Tailwind CSS, Chess.js, JavaScript, HTML5
+- **Features:** Legal move validation, checkmate detection, responsive design
+- **[Play Live Demo →](https://daruoktab.github.io/react-tailwind-chess/)**
+
+### 🤖 AI & Machine Learning
+Currently exploring cutting-edge applications in:
+- **Large Language Models (LLMs)** - Fine-tuning and deployment
+- **RAG Systems** - Retrieval-augmented generation pipelines  
+- **Agentic Frameworks** - Multi-agent AI systems
+- **Computer Vision** - YOLO, OpenCV implementations
+
 ## 🌐 Socials:
 - 📫 **Reach out:** [Email](mailto:daruokta@gmail.com)
 - 💼 **LinkedIn:** [Daru Okta Buana](https://www.linkedin.com/in/daru-okta-buana/)
 
 
-## ♟️ My GitHub Chess
+## ♟️ My Interactive GitHub Chess Game
 
-I've built a fully interactive chess game you can play right in your browser!
+<div align="center">
 
-<a href="https://github.com/daruoktab/interactive-chess">
-  <img src="https://github.com/daru-okta-buana/daru-okta-buana/blob/output/chess.svg" alt="My GitHub Chess">
+### 🎮 Play Chess Live in Your Browser!
+
+<a href="https://daruoktab.github.io/react-tailwind-chess/">
+  <img src="preview.png" alt="Interactive Chess Game" width="400">
 </a>
 
-**[Click here to play!](https://daru-okta-buana.github.io/interactive-chess/)**
+<br><br>
+
+**✨ Features:**
+- 🎯 **Drag & Drop Interface** - Intuitive piece movement
+- 🧠 **Smart Validation** - Legal moves only
+- 🏆 **Game Status** - Real-time check/checkmate detection
+- 🔄 **New Game** - Reset anytime
+
+<br>
+
+### **[🚀 PLAY NOW](https://daruoktab.github.io/react-tailwind-chess/)**
+
+*Built with React & Tailwind CSS | Fully responsive design*
+
+</div>
 
 
 ## 💻 Tech Stack:
