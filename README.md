@@ -1,5 +1,5 @@
 # 🏂 Daru Okta Buana
-**`Code Wanderer (ML/DL & Data related fields)`**
+**`Chess and AI enthusiast`**
 
 <div align="center">
 <img src="banner.gif" align="center" style="width: 100%" />
