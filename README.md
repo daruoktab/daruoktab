@@ -20,9 +20,22 @@ A web application that generates unique pixel art based on text prompts using Go
 
 ### 🎮 Interactive Chess Game
 A fully functional chess game built with modern web technologies, featuring drag-and-drop gameplay and real-time validation.
+
+<div align="center">
+  <a href="https://daruoktab.github.io/react-tailwind-chess/">
+    <img src="preview.png" alt="Interactive Chess Game" width="400">
+  </a>
+</div>
+
 - **Tech Stack:** React, Tailwind CSS, Chess.js, JavaScript, HTML5
-- **Features:** Legal move validation, checkmate detection, responsive design
-- **[Play Live Demo →](https://daruoktab.github.io/react-tailwind-chess/)**
+- **Features:**
+    - 🎯 **Drag & Drop Interface** - Intuitive piece movement
+    - 🧠 **Smart Validation** - Legal moves only (Legal move validation, checkmate detection)
+    - 🏆 **Game Status** - Real-time check/checkmate detection
+    - 🔄 **New Game** - Reset anytime
+    - Responsive design
+- **[🚀 PLAY NOW →](https://daruoktab.github.io/react-tailwind-chess/)**
+  *Built with React & Tailwind CSS | Fully responsive design*
 
 ### 🤖 AI & Machine Learning
 Currently exploring cutting-edge applications in:
@@ -34,33 +47,6 @@ Currently exploring cutting-edge applications in:
 ## 🌐 Socials:
 - 📫 **Reach out:** [Email](mailto:daruokta@gmail.com)
 - 💼 **LinkedIn:** [Daru Okta Buana](https://www.linkedin.com/in/daru-okta-buana/)
-
-
-## ♟️ My Interactive GitHub Chess Game
-
-<div align="center">
-
-### 🎮 Play Chess Live in Your Browser!
-
-<a href="https://daruoktab.github.io/react-tailwind-chess/">
-  <img src="preview.png" alt="Interactive Chess Game" width="400">
-</a>
-
-<br><br>
-
-**✨ Features:**
-- 🎯 **Drag & Drop Interface** - Intuitive piece movement
-- 🧠 **Smart Validation** - Legal moves only
-- 🏆 **Game Status** - Real-time check/checkmate detection
-- 🔄 **New Game** - Reset anytime
-
-<br>
-
-### **[🚀 PLAY NOW](https://daruoktab.github.io/react-tailwind-chess/)**
-
-*Built with React & Tailwind CSS | Fully responsive design*
-
-</div>
 
 
 ## 💻 Tech Stack:
