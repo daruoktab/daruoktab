@@ -7,23 +7,30 @@
 
 <br/>
 
-From ground-up projects to self-driven explorations, I believe every step in this journey is an opportunity to learn something new. With a passion for LLMs, RAG systems, agentic frameworks, and chess, I'm committed to turning curiosity into impact through cutting-edge AI research and strategic thinking.
+🎯 **Building the future, one algorithm at a time.** From crafting intelligent chess engines to architecting next-gen AI systems, I transform complex problems into elegant solutions. Currently deep-diving into LLMs, RAG pipelines, and multi-agent frameworks—because the best way to predict the future is to code it.
+
+*Where strategic thinking meets cutting-edge technology.*
 
 ## 🚀 Featured Projects
 
 ### 🎨 Pixel Art Generator
+<div align="center">
+  <a href="https://daruoktab.github.io/react-tailwind-chess/">
+    <img src="preview1.png" alt="Interactive Chess Game" style="width: 100%;">
+  </a>
+</div>
+
 A web application that generates unique pixel art based on text prompts using Google's Gemini AI.
 - **Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Google Gemini API
 - **Features:** AI-powered image generation, simple UI
-- **[View on GitHub →](https://github.com/daruoktab/pixel-art-generator)**
-- **[Live Demo →](https://daruoktab.github.io/pixel-art-generator/)**
+- **[🚀 VISIT IT!](https://github.com/daruoktab/pixel-art-generator)**
 
 ### 🎮 Interactive Chess Game
 A fully functional chess game built with modern web technologies, featuring drag-and-drop gameplay and real-time validation.
 
 <div align="center">
   <a href="https://daruoktab.github.io/react-tailwind-chess/">
-    <img src="preview.png" alt="Interactive Chess Game" width="400">
+    <img src="preview.png" alt="Interactive Chess Game" style="width: 100%;">
   </a>
 </div>
 
@@ -34,8 +41,7 @@ A fully functional chess game built with modern web technologies, featuring drag
     - 🏆 **Game Status** - Real-time check/checkmate detection
     - 🔄 **New Game** - Reset anytime
     - Responsive design
-- **[🚀 PLAY NOW →](https://daruoktab.github.io/react-tailwind-chess/)**
-  *Built with React & Tailwind CSS | Fully responsive design*
+- **[🚀 PLAY NOW](https://daruoktab.github.io/react-tailwind-chess/)**
 
 ### 🤖 AI & Machine Learning
 Currently exploring cutting-edge applications in:
