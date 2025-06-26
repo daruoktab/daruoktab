@@ -57,7 +57,7 @@ Currently exploring cutting-edge applications in:
 
 ## 💻 Tech Stack:
 
-<div align="center">
+<div style="width: 100%;"">
 
 ### **Python Ecosystem**
 | **Language** | **Backend** | **Database** |
