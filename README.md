@@ -73,8 +73,12 @@ Currently exploring cutting-edge applications in:
 | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3) | ![YOLO](https://img.shields.io/badge/YOLO-111F68.svg?style=for-the-badge&logo=YOLO&logoColor=white) |
 | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&logoSize=2) | ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) | | |
 | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) | | |
-| ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) | ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white) | | |
-| | ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) | | |
+| ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) | ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) | | |
+
+### **Computational Mathematics**
+| **Language & Platform** |
+|:------------------------:|
+| ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white) |
 
 ### **JavaScript/TypeScript Ecosystem**
 | **Language** | **Backend** | **Database** | **Libraries** |
@@ -92,8 +96,8 @@ Currently exploring cutting-edge applications in:
 |:-------------------:|:-----------------:|:--------------------:|:--------------------:|
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white) | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=ai&logoColor=white) |
 | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F1419?style=for-the-badge&logo=llama&logoColor=white) | ![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white) | ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
-| ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white) | ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFCC02?style=for-the-badge&logo=huggingface&logoColor=black) | | ![Agno](https://img.shields.io/badge/Agno-00D4AA?style=for-the-badge&logo=ai&logoColor=white) |
-| | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | | |
+| ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white) | ![ADK](https://img.shields.io/badge/ADK-FF9500?style=for-the-badge&logo=development&logoColor=white) | | ![Agno](https://img.shields.io/badge/Agno-00D4AA?style=for-the-badge&logo=ai&logoColor=white) |
+| | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | | <img src="https://badge.mcpx.dev" title="MCP"/> |
 
 ### **Tools & DevOps**
 | **Development** | **Design** |
