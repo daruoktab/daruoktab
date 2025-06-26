@@ -96,8 +96,9 @@ Currently exploring cutting-edge applications in:
 |:-------------------:|:-----------------:|:--------------------:|:--------------------:|
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white) | ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logo=ai&logoColor=white) |
 | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0F1419?style=for-the-badge&logo=llama&logoColor=white) | ![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white) | ![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) |
-| ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white) | ![ADK](https://img.shields.io/badge/ADK-FF9500?style=for-the-badge&logo=development&logoColor=white) | | ![Agno](https://img.shields.io/badge/Agno-00D4AA?style=for-the-badge&logo=ai&logoColor=white) |
-| | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | | <img src="https://badge.mcpx.dev" title="MCP"/> |
+| ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white) | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | | ![Agno](https://img.shields.io/badge/Agno-00D4AA?style=for-the-badge&logo=ai&logoColor=white) |
+| ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) | | | <img src="https://badge.mcpx.dev" title="MCP"/> |
+| ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F) | | | ![ADK](https://img.shields.io/badge/ADK-FF9500?style=for-the-badge&logo=development&logoColor=white) |
 
 ### **Tools & DevOps**
 | **Development** | **Design** |
